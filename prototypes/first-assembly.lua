@@ -143,7 +143,7 @@ graphics_set = {
       idle_sound = { filename = "__base__/sound/idle1.ogg", volume = 0.6 },
       apparent_volume = 1.5,
     },
-    crafting_categories = {"crafting", "basic-crafting", "advanced-crafting"},
+    crafting_categories = {"crafting", "advanced-crafting"},
     crafting_speed = 0.5,
     energy_source =
     {
