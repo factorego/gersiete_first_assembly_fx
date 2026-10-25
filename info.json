@@ -1,14 +1,14 @@
 {
-  "name": "gersiete_first_assembly",
+  "name": "gersiete_first_assembly_fx",
   "version": "1.1.5",
   "factorio_version": "2.0",
-  "title": "My First Assembly",
+  "title": "My First Assembly FX",
   "author": "Gersiete",
-  "contact": "gersiete@gmail.com",
-  "homepage": "",
   "dependencies": [
+    "! gersiete_first_assembly",
     "base >= 1.1.0",
-    "? pyalternativeenergy", "? pyhardmode"
+    "? pyalternativeenergy",
+    "? pyhardmode"
   ],
-  "description": "¿Ever wanted to do a Pyanodon's or Bob's and Angel's Lazy run?\n\nThis mod adds a new uncraftable assembling machine at the start of the game so you can disable crafting and do a 100% lazy run."
+  "description": "\u00bfEver wanted to do a Pyanodon's or Bob's and Angel's Lazy run?\n\nThis mod adds a new uncraftable assembling machine at the start of the game so you can disable crafting and do a 100% lazy run."
 }

@@ -10,7 +10,7 @@ data:extend(
   {
     type = "item",
     name = "first-assembling-machine",
-    icon = "__gersiete_first_assembly__/graphics/icons/burner-assembling-machine.png",
+    icon = "__gersiete_first_assembly_fx__/graphics/icons/burner-assembling-machine.png",
     icon_size = 32,
     order = "1[first-assembling-machine]",
     place_result = "first-assembling-machine",
@@ -46,7 +46,7 @@ data:extend(
   {
     type = "assembling-machine",
     name = "first-assembling-machine",
-    icon = "__gersiete_first_assembly__/graphics/icons/burner-assembling-machine.png",
+    icon = "__gersiete_first_assembly_fx__/graphics/icons/burner-assembling-machine.png",
     icon_size = 32,
     flags = {"placeable-neutral", "placeable-player", "player-creation"},
     minable = {mining_time = 0.2, result = "first-assembling-machine"},
@@ -69,7 +69,7 @@ graphics_set = {
       layers =
       {
         {
-          filename = "__gersiete_first_assembly__/graphics/entity/assembling-machine/assembling-machine-1.png",
+          filename = "__gersiete_first_assembly_fx__/graphics/entity/assembling-machine/assembling-machine-1.png",
           priority="high",
           width = 108,
           height = 114,
@@ -79,7 +79,7 @@ graphics_set = {
           scale = 2/3,
           hr_version =
           {
-            filename = "__gersiete_first_assembly__/graphics/entity/assembling-machine/hr-assembling-machine-1.png",
+            filename = "__gersiete_first_assembly_fx__/graphics/entity/assembling-machine/hr-assembling-machine-1.png",
             priority="high",
             width = 214,
             height = 226,
@@ -90,7 +90,7 @@ graphics_set = {
           }
         },
         {
-          filename = "__gersiete_first_assembly__/graphics/entity/assembling-machine/assembling-machine-mask.png",
+          filename = "__gersiete_first_assembly_fx__/graphics/entity/assembling-machine/assembling-machine-mask.png",
           priority = "high",
           width = 142,
           height = 113,
@@ -100,7 +100,7 @@ graphics_set = {
           tint = {r = 0.2, g = 0.2, b = 0.2},
         },
         {
-          filename = "__gersiete_first_assembly__/graphics/entity/assembling-machine/assembling-machine-1-shadow.png",
+          filename = "__gersiete_first_assembly_fx__/graphics/entity/assembling-machine/assembling-machine-1-shadow.png",
           priority="high",
           width = 95,
           height = 83,
@@ -112,7 +112,7 @@ graphics_set = {
           scale = 2/3,
           hr_version =
           {
-            filename = "__gersiete_first_assembly__/graphics/entity/assembling-machine/hr-assembling-machine-1-shadow.png",
+            filename = "__gersiete_first_assembly_fx__/graphics/entity/assembling-machine/hr-assembling-machine-1-shadow.png",
             priority="high",
             width = 190,
             height = 165,
